@@ -9,4 +9,3 @@ void set_string(char **init_str, char *to_new_str)
 {
 	*init_str = to_new_str;
 }
-
